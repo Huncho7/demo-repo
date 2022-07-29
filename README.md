@@ -1,2 +1,5 @@
 # demo-repo
-Git GITHUB tutorial
+ 
+ Git and Github Tutorial
+ 
+ Some descriptions
